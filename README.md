@@ -10,3 +10,6 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+##注
+这是一个微信小程序，名为雨心札记，由于无企业资质审核不通过，只能开发者使用
+该小程序包含相册管理和笔记记录两个功能，页面简洁（练手项目）
